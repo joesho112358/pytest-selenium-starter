@@ -2,7 +2,7 @@
 
 Clone this repo.
 
-### Termianl commands
+### Terminal commands
 
 Install requirements listed in `requirements.txt` by running
 `pip install -r requirements.txt`
